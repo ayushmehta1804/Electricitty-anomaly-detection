@@ -70,7 +70,7 @@ Findings:
 
 This validates the baseline and enables residual-based anomaly detection.
 Residual Diagnostics
-![Residuals From Baseline](plots/Baseline Residuals(First 500 hours).png)
+![Residuals From Baseline](plots/BaselineResiduals.png)
 
 
 ---
